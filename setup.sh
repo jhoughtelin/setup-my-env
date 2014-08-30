@@ -12,7 +12,7 @@ curl -L https://raw.githubusercontent.com/jhoughtelin/vimrc/master/.vimrc > ~/.v
 sudo apt-get install zsh
 
 # Change my shell to ZSH
-chsh /bin/zsh
+chsh -s /bin/zsh
 
 # Install oh-my-zsh
 # https://github.com/robbyrussell/oh-my-zsh
